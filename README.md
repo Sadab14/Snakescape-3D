@@ -46,7 +46,6 @@ python project.py
 
 - The game window is 1000x800 pixels.
 - The snake and foods are large for better visibility.
-- Foods "breathe" (pulsate) for a lively effect.
 - The game ends if the snake hits itself or the wall.
 
 ---
